@@ -1,2 +1,2 @@
-# Forecasting-Sectoral-Crash-Risk-and-Contagion
-Forecasting Sectoral Crash Risk and Contagion: Integrating Dynamic Volatility, Extreme-Value Modelling and Graph Deep Learning
+# Forecasting Tail-Event Probabilities Across Equity-Market Sectors
+Forecasting Tail-Event Probabilities Across Equity-Market Sectors: Do Hawkes-Informed Graph Models Add Predictive Value?
